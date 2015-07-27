@@ -73,6 +73,8 @@ if [[ -e /etc/openvpn/server.conf ]]; then
 		echo "   2) Révoquer le certificat existant d'un utilisateur ?"
 		echo "   3) Supprimer OpenVPN ?"
 		echo "   4) Quitter/Sortir ?"
+		echo ""
+		echo "Script OpenVPN By Genetik57"
 		read -p "Sélectionnez une option [1-4]: " option
 		case $option in
 			1) 
@@ -185,6 +187,8 @@ else
 	echo "   4) NTT"
 	echo "   5) Hurricane Electric"
 	echo "   6) Yandex"
+	echo ""
+	echo "Script OpenVPN By Genetik57"
 	read -p "DNS [1-6] : " -e -i 1 DNS
 	echo ""
 	echo "Enfin, dites-moi votre nom pour le certificat client"
