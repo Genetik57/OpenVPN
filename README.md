@@ -11,7 +11,7 @@ Exécutez le script et suivez l'assistance :
 
 Une fois qu'il se termine, vous pouvez l'exécuter à nouveau pour ajouter d'autres utilisateurs, supprimer certains utilisateurs ou même désinstaller complètement le serveur OpenVPN.
 
-#### Crédit & Autres
+#### Crédits & Autres
 -Genetik57 (pour le script)
 
 [DediGo](https://dedigo.ch)
