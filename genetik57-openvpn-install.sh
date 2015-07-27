@@ -2,7 +2,7 @@
 # OpenVPN Genetik57 installer pour Debian, Ubuntu et CentOS
 
 # Ce script fonctionne sous Debian, Ubuntu, CentOS aet probablement sous d'autres distributions
-# Script en Français et facile d'utilisation
+# Script en Français et facile d'utilisations
 
 
 if [[ "$USER" != 'root' ]]; then
