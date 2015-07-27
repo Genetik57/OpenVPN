@@ -1,7 +1,7 @@
-# Description
+# Titre
 Création d'un fichier OpenVPN facilement avec un VPS Linux !
 
-##openvpn-install
+##Description
 Ce script OpenVPN vous permettra d'installer un serveur OpenVPN très facilement sans aucun effort !
 
 ###Installation
