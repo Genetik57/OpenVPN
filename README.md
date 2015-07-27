@@ -14,4 +14,4 @@ Une fois qu'il se termine, vous pouvez l'exécuter à nouveau pour ajouter d'aut
 #### Crédits & Autres
 -Genetik57 (pour le script)
 
-[DediGo](https://dedigo.ch)i
+[DediGo](https://dedigo.ch)
