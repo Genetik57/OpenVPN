@@ -7,7 +7,7 @@ Ce script OpenVPN vous permettra d'installer un serveur OpenVPN très facilement
 ###Installation
 Exécutez le script et suivez l'assistance :
 
-`wget git.io/vpn --no-check-certificate -O openvpn-install.sh; bash openvpn-install.sh`
+`wget https://raw.githubusercontent.com/Genetik57/openvpn/master/genetik57-openvpn-install.sh --no-check-certificate -O genetik57-openvpn-install.sh; bash genetik57-openvpn-install.sh`
 
 Une fois qu'il se termine, vous pouvez l'exécuter à nouveau pour ajouter d'autres utilisateurs, supprimer certains utilisateurs ou même désinstaller complètement le serveur OpenVPN.
 
