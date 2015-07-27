@@ -75,6 +75,7 @@ if [[ -e /etc/openvpn/server.conf ]]; then
 		echo "   4) Quitter/Sortir ?"
 		echo ""
 		echo "Script OpenVPN By Genetik57"
+		echo ""
 		read -p "Sélectionnez une option [1-4]: " option
 		case $option in
 			1) 
@@ -189,6 +190,7 @@ else
 	echo "   6) Yandex"
 	echo ""
 	echo "Script OpenVPN By Genetik57"
+	echo ""
 	read -p "DNS [1-6] : " -e -i 1 DNS
 	echo ""
 	echo "Enfin, dites-moi votre nom pour le certificat client"
