@@ -167,7 +167,7 @@ else
 	echo "Vous pouvez laisser les options par défauts et appuyez simplement sur ENTER si vous avez le même choix"
 	echo ""
 	echo "Je dois d'abord connaître l'adresse IPv4 de l'interface réseau OpenVPN que vous souhaitez"
-	echo "voilà"
+	echo ""
 	read -p "Adresse IP : " -e -i $IP IP
 	echo ""
 	echo "Quel port voulez-vous pour OpenVPN ?"
