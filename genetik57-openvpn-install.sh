@@ -1,7 +1,7 @@
 #!/bin/bash
-# OpenVPN Genetik57 installer pour Debian, Ubuntu et CentOS
+# OpenVPN By Genetik57 pour Debian, Ubuntu et CentOS
 
-# Ce script fonctionne sous Debian, Ubuntu, CentOS aet probablement sous d'autres distributions
+# Ce script fonctionne sous Debian, Ubuntu, CentOS et probablement sous d'autres distributions
 # Script en Français et facile d'utilisation
 
 
