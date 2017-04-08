@@ -1,10 +1,10 @@
 # Titre
 Création d'un fichier OpenVPN facilement avec un VPS Linux !
 
-##Description
+## Description
 Ce script OpenVPN vous permettra d'installer un serveur OpenVPN très facilement sans aucun effort !
 
-###Installation
+### Installation
 Exécutez le script et suivez l'assistance :
 
 `wget https://raw.githubusercontent.com/Genetik57/OpenVPN/master/genetik57-openvpn-install.sh --no-check-certificate -O genetik57-openvpn-install.sh; bash genetik57-openvpn-install.sh`
